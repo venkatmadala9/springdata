@@ -1,0 +1,6 @@
+com\springdata\controller\MyController.class
+com\springdata\model\Student.class
+com\springdata\service\MyService.class
+com\springdata\service\MyServiceImpl.class
+com\springdata\repository\MyRepository.class
+com\springdata\dao\StudentDAO.class
